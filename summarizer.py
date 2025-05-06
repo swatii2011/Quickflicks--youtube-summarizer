@@ -5,7 +5,7 @@ from urllib.parse import urlparse, parse_qs
 import textwrap
 
 # Load Groq API Key (make sure it's set in your environment or paste directly)
-GROQ_API_KEY = "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"  # Replace with your Groq API key
+GROQ_API_KEY = "xxxxx"  # Replace with your Groq API key
 GROQ_MODEL = "llama3-8b-8192"
 
 
